@@ -1,0 +1,6 @@
+order_id,customer_id,product_id,quantity,order_date,name,city,product_name,price
+1001,1,101,1.0,2026-11-01,Ali,karachi,Laptop,120000.0
+1002,2,102,2.0,2026-11-02,Ahmed,lahore,Mouse,1500.0
+1003,3,103,1.0,2026-11-03,Sara,islamabad,Keyboard,3000.0
+1004,1,104,2.0,2026-11-04,Ali,karachi,Monitor,35000.0
+1005,4,101,1.0,2026-11-05,John,karachi,Laptop,120000.0
